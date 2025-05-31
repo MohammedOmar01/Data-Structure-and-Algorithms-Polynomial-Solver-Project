@@ -1,0 +1,81 @@
+Welcome to my project 1 Code ^_^ , please pick a number from 1 to 8
+
+Please pick a number to start:
+1) Load polynomials from file and push to stack
+2) Print polynomials in the stack
+3) Add all polynomials in the stack
+4) Subtract all polynomials in the stack
+5) Multiply all polynomials in the stack
+6) Print all operation results
+7) Write all operation results to file
+8) Exit
+Enter your choice: 1
+--------------------------------------------------------------------
+^_^ File loaded successfully
+2) Print polynomials
+3) Add the polynomials
+4) Subtract the polynomials
+5) Multiply the polynomials
+6) Print all operation results
+7) Write all operation results to file
+8) Exit
+Enter your choice: 2
+1) 31x^5-2x^3+x^2+4
+
+2) -x^2-3x^4
+
+3) 8x^2-9+8-1
+
+4) 3x^10-5
+--------------------------------------------------------------------
+3) Add all polynomials in the stack
+3) Add all polynomials in the stack
+4) Subtract all polynomials in the stack
+5) Multiply all polynomials in the stack
+6) Print all operation results
+7) Write all operation results to file
+8) Exit
+Enter your choice: 3
+The sum of all polynomials is:
+3x^10 + 31x^5 - 3x^4 - 2x^3 + 8x^2 - 3
+--------------------------------------------------------------------
+4) Subtract all polynomials in the stack
+5) Multiply all polynomials in the stack
+6) Print all operation results
+7) Write all operation results to file
+8) Exit
+Enter your choice: 4
+The result of subtraction is:
+-3x^10 + 31x^5 + 3x^4 - 2x^3 - 6x^2 + 11
+--------------------------------------------------------------------
+5) Multiply all polynomials in the stack
+6) Print all operation results
+7) Write all operation results to file
+8) Exit
+Enter your choice: 5
+The result of multiplication is:
+-2232x^21 - 42x^19 - 72x^18 + 198x^17 - 294x^16 - 12x^15 - 18x^14 + 24x^12 + 3720x^11 + 70x^9 + 120x^8 - 330x^7 + 490x^6 + 20x^5 + 30x^4 - 40x^2
+--------------------------------------------------------------------
+6) Print all operation results
+7) Write all operation results to file
+8) Exit
+Enter your choice: 6
+
+-------------^_^ All the Results ^_^-------------
+Addition Result
+3x^10 + 31x^5 - 3x^4 - 2x^3 + 8x^2 - 3
+
+Subtraction Result
+-3x^10 + 31x^5 + 3x^4 - 2x^3 - 6x^2 + 11
+
+Multiplication Result
+-2232x^21 - 42x^19 - 72x^18 + 198x^17 - 294x^16 - 12x^15 - 18x^14 + 24x^12 + 3720x^11 + 70x^9 + 120x^8 - 330x^7 + 490x^6 + 20x^5 + 30x^4 - 40x^2
+--------------------------------------------------------------------
+7) Write all operation results to file
+8) Exit
+Enter your choice: 7
+Operation results have been written to the file: C:\output.txt
+--------------------------------------------------------------------
+8) Exit
+Enter your choice: 8
+Exit the program , I hope you enjoy my program.............^_^
