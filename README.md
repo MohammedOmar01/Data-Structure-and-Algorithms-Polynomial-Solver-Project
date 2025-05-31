@@ -7,7 +7,8 @@ Built using Python (Flask) for the backend, HTML, CSS, and JavaScript for the fr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/fb8245ac-cdc8-4e1b-8a8a-2f173b0aad96)
+![Screenshot 2025-05-31 134822](https://github.com/user-attachments/assets/d4ff4678-8492-48a2-a7d9-c5906d7a5f2c)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/f83ad26f-faf4-4e7f-a1a2-03b612cfca01)
