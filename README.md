@@ -3,7 +3,7 @@ This AI-powered web application optimizes package delivery routes using Simulate
 Built using Python (Flask) for the backend, HTML, CSS, and JavaScript for the frontend, and Matplotlib for visualizing route optimization results.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/e9e14bab-c858-4915-9d7c-23478b29935d)
+![Screenshot 2025-05-31 134253](https://github.com/user-attachments/assets/c7e27cfe-7d64-4794-97d5-8920591f3711)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
